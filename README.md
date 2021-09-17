@@ -10,4 +10,4 @@ bug fixed
 
 release 0.1.0 completed!!
 
-실수로 마스터에서 작업 (trouble shooting)
+bug fix for hotfix 0.2.1
